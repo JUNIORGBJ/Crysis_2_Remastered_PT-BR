@@ -1,0 +1,3009 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>Steven Lewis</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2011-01-14T19:44:53Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>C:\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>12030</WindowHeight>
+  <WindowWidth>24765</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>75</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#99CC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s78">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#FF0000"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="0%"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='C:\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='C:\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C3"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="468" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="13.5"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="270"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="339.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="355.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="129"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51" ss:StyleID="s65">
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">CONTEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s65">
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">This contains original text meant for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">This contains text for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s73">
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">mp_GameStartingCountdown</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MATCH STARTING IN:</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">PARTIDA INICIANDO EM:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">mp_RoundStartingCountdown</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ROUND %1 STARTING IN:</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">RODADA %1 INICIANDO EM:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">mp_RoundWon</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ROUND WON</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">RODADA VENCIDA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">mp_RoundLost</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ROUND LOST</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">RODADA PERDIDA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">mp_RoundDrawn</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ROUND DRAWN</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">RODADA EMPATADA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">mp_CTF_EndofRound1</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">END OF ROUND 1</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">FIM DA RODADA 1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">mp_CTF_EndofRound2</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">END OF ROUND 2</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">FIM DA RODADA 2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">mp_RoundOverDraw</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">The round was drawn!</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">O rodada está empatada!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">mp_RoundRestartCountdown</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">New round starting in %1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Nova rodada iniciando em %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_hud_spec_host_migrating_waiting</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Match will resume in %1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Partida irá continuar em %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_mp_host_migrating_title</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MIGRATING HOST</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MIGRANDO HOSPEDEIRO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_mp_host_migrating_session</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MIGRATING SESSION...</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">MIGRANDO SESSÃO...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">mp_RoundOverWinner</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">%1 has won the round</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">%1 venceu a rodada</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">mp_RoundOverWinner_Team</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">%1 have won the round</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">%1 venceu a rodada</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">mp_GameEndTeamWin</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">VICTORY</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">VITÓRIA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">mp_GameEndTeamLose</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">DEFEAT</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">DERROTA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">mp_GameEndTeamDraw</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">DRAW</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">EMPATE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">mp_GameResumingCountdown</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Match will resume in %1</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Partida irá continuar em %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">mp_GameEndDraw</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">DRAW</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">EMPATE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">mp_GameEndWin</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">VICTORY</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">VITÓRIA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">mp_GameEndLose</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">DEFEAT</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">DERROTA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_mp_RoundMessage</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ROUND %1 OF %2</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">RODADA %1 DE %2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_mp_GameWinner</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">%1 has won the match</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">%1 venceu a partida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_mp_GameWinner_Team</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">%1 have won the match</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">%1 venceu a partida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_mp_EndOfGame</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">END OF GAME</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">FIM DE JOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_mp_GameWinnerAllOpponentsLeft</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ALL OPPONENTS HAVE LEFT</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">TODOS OS ADVERSÁRIOS SAÍRAM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">ui_mp_GameWinnerAllOpponentTeamLeft</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ALL OPPONENTS HAVE LEFT</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">TODOS OS ADVERSÁRIOS SAÍRAM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ia_position</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Position:</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Posição:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ia_score</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Score:</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Pontuação:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ia_rank_suffix_1</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">st</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">st</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ia_rank_suffix_2</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">nd</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">nd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ia_rank_suffix_3</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">rd</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">rd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ia_rank_suffix_4_and_above</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">th</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">th</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ia_status</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ELIMINATE ENEMIES</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ELIMINAR OS INIMIGOS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ia_matchstart</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Eliminate Enemies</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Eliminar os Inimigos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_tia_matchstart</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Eliminate Enemy Team</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Eliminar a Equipe Inimiga</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_cs_matchstart</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Capture the Crash Site</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Capture o Local da Queda</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_as_matchstart_attack</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Upload Intel at any Terminal</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Envie as informações em um Terminal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_as_matchstart_defend</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Protect the Intel Terminals</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Proteja o Terminal de Informações</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ctf_matchstart</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Capture the Enemy Relay</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Capture o Transmissor Inimigo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ex_matchstart_attack</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Extract the Alien Bio-Ticks</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Extraia os Bio-Tecidos Alienígenas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_ex_matchstart_defend</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Stop the Alien Bio-Ticks being Extracted</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Pare a extração de Bio-Tecidos Alienígenas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_tia_status</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ELIMINATE ENEMY TEAM</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">ELIMINE A EQUIPE INIMIGA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_gunship_inbound</Data></Cell>
+    <Cell><Data ss:Type="String">Awaiting Clear Airspace</Data></Cell>
+    <Cell><Data ss:Type="String">Aguardando Espaço Aéreo Limpo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_gunship_inbound_now</Data></Cell>
+    <Cell><Data ss:Type="String">Ceph Airstrike Incoming</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Aéreo Ceph Chegando</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_suitdisrupter_failed</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Jammer Already Active</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência da Nanosuit Já Ativa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_msg_microwavebeam_failed</Data></Cell>
+    <Cell><Data ss:Type="String">Orbital Strike Already Active</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Orbital Já Está Ativo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_score_0</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy relay captured</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor Inimigo Capturado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_score_1</Data></Cell>
+    <Cell><Data ss:Type="String">Our relay has been captured</Data></Cell>
+    <Cell><Data ss:Type="String">Nosso transmissor foi capturado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_score_2</Data></Cell>
+    <Cell><Data ss:Type="String">Relay Captured</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor Capturado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_score_3</Data></Cell>
+    <Cell><Data ss:Type="String">%1 has captured a relay</Data></Cell>
+    <Cell><Data ss:Type="String">%1 capturou um transmissor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_flag_taken_0</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Relay taken - return to base!</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor Inimigo Pego - retornar a base!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_flag_taken_1</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Relay taken</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor Inimigo Pego</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_flag_taken_2</Data></Cell>
+    <Cell><Data ss:Type="String">Our Relay has been taken</Data></Cell>
+    <Cell><Data ss:Type="String">Nosso Transmissor foi pego</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_flag_taken_3</Data></Cell>
+    <Cell><Data ss:Type="String">%1 has taken a Relay</Data></Cell>
+    <Cell><Data ss:Type="String">%1 pegou um Transmissor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_flag_dropped_0</Data></Cell>
+    <Cell><Data ss:Type="String">Our Relay has been dropped</Data></Cell>
+    <Cell><Data ss:Type="String">Nosso Transmissor foi largado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_flag_dropped_1</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Relay dropped!</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor Inimigo largado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_flag_reset_0</Data></Cell>
+    <Cell><Data ss:Type="String">Our Relay is restored</Data></Cell>
+    <Cell><Data ss:Type="String">Nosso Transmissor foi restaurado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_flag_reset_1</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Relay restored</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor Inimigo Restaurado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_status_0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">CAPTURE ENEMY RELAY</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">CAPTURE O TRANSMISSOR INIMIGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_status_1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PROTECT RELAY CARRIER</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PROTEJA O CARREGADOR DO TRANSMISSOR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ctf_status_2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">TAKE RELAY TO BASE</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">LEVE O TRANSMISSOR ATÉ A BASE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_status_3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">SECURE RELAY</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PROTEJA O TRANSMISSOR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_flag_retrieved_0</Data></Cell>
+    <Cell><Data ss:Type="String">Relay returned</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor retornado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_flag_retrieved_1</Data></Cell>
+    <Cell><Data ss:Type="String">%1 has retrieved our Relay</Data></Cell>
+    <Cell><Data ss:Type="String">%1 recuperou nosso Transmissor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_flag_retrieved_2</Data></Cell>
+    <Cell><Data ss:Type="String">%1 retrieved the enemy Relay</Data></Cell>
+    <Cell><Data ss:Type="String">%1 recuperou o Transmissor inimigo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_defend_flag_base</Data></Cell>
+    <Cell><Data ss:Type="String">Relay defended</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor defendido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_protect_flag_carrier</Data></Cell>
+    <Cell><Data ss:Type="String">Relay carrier defended</Data></Cell>
+    <Cell><Data ss:Type="String">Carregador do Transmissor defendido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_flagbase_to_score</Data></Cell>
+    <Cell><Data ss:Type="String">Team Relay must be present to score</Data></Cell>
+    <Cell><Data ss:Type="String">A equipe do Transmissor deve estar presente</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_tia_kill_assist</Data></Cell>
+    <Cell><Data ss:Type="String">Assisted in killing %1</Data></Cell>
+    <Cell><Data ss:Type="String">Ajudado em assassinar %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_capture_assist</Data></Cell>
+    <Cell><Data ss:Type="String">Relay capture assist</Data></Cell>
+    <Cell><Data ss:Type="String">Ajudado em capturar o Transmissor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_flagcarried</Data></Cell>
+    <Cell><Data ss:Type="String">The enemy have our Relay!</Data></Cell>
+    <Cell><Data ss:Type="String">O inimigo possui nosso Transmissor!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_flagdropped</Data></Cell>
+    <Cell><Data ss:Type="String">Our Relay has been dropped</Data></Cell>
+    <Cell><Data ss:Type="String">Nosso Transmissor foi largado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_flag_use_msg</Data></Cell>
+    <Cell><Data ss:Type="String">Take Relay</Data></Cell>
+    <Cell><Data ss:Type="String">Pegar o Transmissor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_restart_time_winning</Data></Cell>
+    <Cell><Data ss:Type="String">Your team is winning</Data></Cell>
+    <Cell><Data ss:Type="String">Sua equipe está vencendo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_restart_time_losing</Data></Cell>
+    <Cell><Data ss:Type="String">Your team is losing</Data></Cell>
+    <Cell><Data ss:Type="String">Sua equipe está perdendo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ctf_restart_time_drawing</Data></Cell>
+    <Cell><Data ss:Type="String">Scores are tied</Data></Cell>
+    <Cell><Data ss:Type="String">Pontos empatados</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_score_ctf_at_base</Data></Cell>
+    <Cell><Data ss:Type="String">AT BASE</Data></Cell>
+    <Cell><Data ss:Type="String">NA BASE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_score_ctf_taken</Data></Cell>
+    <Cell><Data ss:Type="String">TAKEN</Data></Cell>
+    <Cell><Data ss:Type="String">PEGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_score_ctf_dropped</Data></Cell>
+    <Cell><Data ss:Type="String">DROPPED</Data></Cell>
+    <Cell><Data ss:Type="String">LARGADO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_status_0</Data></Cell>
+    <Cell><Data ss:Type="String">CAPTURE CRASH SITE</Data></Cell>
+    <Cell><Data ss:Type="String">CAPTURE O LOCAL DA QUEDA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_status_1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">DEFEND CRASH SITE</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">DEFENDA O LOCAL DA QUEDA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_status_2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">CLEAR CRASH SITE</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">LIMPE O LOCAL DA QUEDA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_status_3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">CRASH SITE UNSTABLE</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">LOCAL DA QUEDA INSTÁVEL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_status_4</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ALIEN SHIP INCOMING</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">NAVE ALIENÍGENA CHEGANDO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_site_captured_0</Data></Cell>
+    <Cell><Data ss:Type="String">Crash site secured</Data></Cell>
+    <Cell><Data ss:Type="String">Local da queda protegido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_site_captured_1</Data></Cell>
+    <Cell><Data ss:Type="String">The enemy control the crash site</Data></Cell>
+    <Cell><Data ss:Type="String">O inimigo está controlando o local da queda</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_lost_0</Data></Cell>
+    <Cell><Data ss:Type="String">Crash site lost</Data></Cell>
+    <Cell><Data ss:Type="String">Local da queda perdido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_lost_1</Data></Cell>
+    <Cell><Data ss:Type="String">The enemy have lost the crash site</Data></Cell>
+    <Cell><Data ss:Type="String">O inimigo perdeu o local da queda</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_cs_new_crashsite</Data></Cell>
+    <Cell><Data ss:Type="String">New ship inbound</Data></Cell>
+    <Cell><Data ss:Type="String">Nova nave está próxima</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_cs_explosionAlert</Data></Cell>
+    <Cell><Data ss:Type="String">Crash site is unstable</Data></Cell>
+    <Cell><Data ss:Type="String">Local da queda está instável</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_status_0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">RETRIEVE ALL TICKS</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">RECUPERAR TODOS TECIDOS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_status_1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">DEFEND THE TICKS</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">DEFENDA OS TECIDOS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_status_2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">RETURN TO HELICOPTER</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">RETORNAR AO HELICÓPTERO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_status_3</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">SECURE THE TICKS</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">PROTEJA OS TECIDOS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_weapon_status_0</Data></Cell>
+    <Cell><Data ss:Type="String">1 Bio-Tick remaining</Data></Cell>
+    <Cell><Data ss:Type="String">1 Bio-Tecido restando</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_weapon_status_1</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bio-Ticks remaining</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bio-Tecidos restando</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_restart_weapons_win</Data></Cell>
+    <Cell><Data ss:Type="String">Both bio-ticks extracted</Data></Cell>
+    <Cell><Data ss:Type="String">Todos Bio-Tecidos extraídos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_restart_weapons_lose</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy extracted both bio-ticks</Data></Cell>
+    <Cell><Data ss:Type="String">O inimigo extraiu os bio-tecidos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_restart_time_win</Data></Cell>
+    <Cell><Data ss:Type="String">Bio-tick defense successful</Data></Cell>
+    <Cell><Data ss:Type="String">Defesa dos Bio-Tecidos bem sucedida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_restart_time_lose</Data></Cell>
+    <Cell><Data ss:Type="String">Failed to extract both bio-ticks</Data></Cell>
+    <Cell><Data ss:Type="String">Falha ao extrair os bio-tecidos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_restart_time_limit_win</Data></Cell>
+    <Cell><Data ss:Type="String">TIME LIMIT %1</Data></Cell>
+    <Cell><Data ss:Type="String">TEMPO LIMITE %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_restart_time_limit_lose</Data></Cell>
+    <Cell><Data ss:Type="String">OUT OF TIME</Data></Cell>
+    <Cell><Data ss:Type="String">SEM TEMPO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_restart_obj_win</Data></Cell>
+    <Cell><Data ss:Type="String">EXTRACTION TIME %1</Data></Cell>
+    <Cell><Data ss:Type="String">TEMPO DE EXTRAÇÃO %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_restart_obj_lose</Data></Cell>
+    <Cell><Data ss:Type="String">TIME TO BEAT %1</Data></Cell>
+    <Cell><Data ss:Type="String">TEMPO PARA CONSEGUIR %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_restart_time_taken</Data></Cell>
+    <Cell><Data ss:Type="String">TIME TAKEN %1</Data></Cell>
+    <Cell><Data ss:Type="String">TEMPO PEGO %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_picked_up_0</Data></Cell>
+    <Cell><Data ss:Type="String">%1 took the %2</Data></Cell>
+    <Cell><Data ss:Type="String">%1 pegou o %2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_picked_up_1</Data></Cell>
+    <Cell><Data ss:Type="String">%1 took the %2</Data></Cell>
+    <Cell><Data ss:Type="String">%1 pegou o %2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_dropped_0</Data></Cell>
+    <Cell><Data ss:Type="String">%1 lost the %2</Data></Cell>
+    <Cell><Data ss:Type="String">%1 perdeu o %2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_dropped_1</Data></Cell>
+    <Cell><Data ss:Type="String">%1 lost the %2</Data></Cell>
+    <Cell><Data ss:Type="String">%1 perdeu o %2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_extracted_0</Data></Cell>
+    <Cell><Data ss:Type="String">%1 extracted a Tick</Data></Cell>
+    <Cell><Data ss:Type="String">%1 extraiu um Tecido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_extracted_1</Data></Cell>
+    <Cell><Data ss:Type="String">%1 extracted a Tick</Data></Cell>
+    <Cell><Data ss:Type="String">%1 extraiu um Tecido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_extracted_fanfare_0</Data></Cell>
+    <Cell><Data ss:Type="String">Tick extracted</Data></Cell>
+    <Cell><Data ss:Type="String">Tecido Extraído</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_extracted_fanfare_1</Data></Cell>
+    <Cell><Data ss:Type="String">Tick extracted</Data></Cell>
+    <Cell><Data ss:Type="String">Tecido Extraído</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_returned_0</Data></Cell>
+    <Cell><Data ss:Type="String">%1 restored</Data></Cell>
+    <Cell><Data ss:Type="String">%1 restaurado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_returned_1</Data></Cell>
+    <Cell><Data ss:Type="String">%1 restored</Data></Cell>
+    <Cell><Data ss:Type="String">%1 restaurado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_extracted_effect_0</Data></Cell>
+    <Cell><Data ss:Type="String">%1 extracted</Data></Cell>
+    <Cell><Data ss:Type="String">%1 extraído</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_tick_extracted_effect_1</Data></Cell>
+    <Cell><Data ss:Type="String">%1 extracted</Data></Cell>
+    <Cell><Data ss:Type="String">%1 extraído</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_stealth_tick</Data></Cell>
+    <Cell><Data ss:Type="String">Stealth Bio-Tick</Data></Cell>
+    <Cell><Data ss:Type="String">Tecido de Disfarce</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_armour_tick</Data></Cell>
+    <Cell><Data ss:Type="String">Armor Bio-Tick</Data></Cell>
+    <Cell><Data ss:Type="String">Tecido de Armadura</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_weapon_picked_up_0</Data></Cell>
+    <Cell><Data ss:Type="String">%1 has taken a Tick</Data></Cell>
+    <Cell><Data ss:Type="String">%1 pegou um Tecido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_weapon_picked_up_1</Data></Cell>
+    <Cell><Data ss:Type="String">%1 has taken a Tick</Data></Cell>
+    <Cell><Data ss:Type="String">%1 pegou um Tecido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_weapon_dropped_0</Data></Cell>
+    <Cell><Data ss:Type="String">%1 dropped a Tick</Data></Cell>
+    <Cell><Data ss:Type="String">%1 soltou um Tecido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_weapon_dropped_1</Data></Cell>
+    <Cell><Data ss:Type="String">%1 dropped a Tick</Data></Cell>
+    <Cell><Data ss:Type="String">%1 soltou um Tecido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_new_round</Data></Cell>
+    <Cell><Data ss:Type="String">Starting round %1 of %2</Data></Cell>
+    <Cell><Data ss:Type="String">Iniciando rodada %1 de %2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_norespawn</Data></Cell>
+    <Cell><Data ss:Type="String">Respawn next round</Data></Cell>
+    <Cell><Data ss:Type="String">Renascer na próxima rodada</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_ext_attacking</Data></Cell>
+    <Cell><Data ss:Type="String">ATTACKING</Data></Cell>
+    <Cell><Data ss:Type="String">ATACANDO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_defending</Data></Cell>
+    <Cell><Data ss:Type="String">DEFENDING</Data></Cell>
+    <Cell><Data ss:Type="String">DEFENDENDO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_draw_resolved_ticks</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Decided by number of ticks extracted</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Decidido pelo número de tecidos extraídos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_draw_resolved_time</Data></Cell>
+    <Cell><Data ss:Type="String">Decided by fastest tick extractions</Data></Cell>
+    <Cell><Data ss:Type="String">Decidido pela extração mais rápida de Tecidos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_stealth_upgraded</Data></Cell>
+    <Cell><Data ss:Type="String">Stealth Upgraded!</Data></Cell>
+    <Cell><Data ss:Type="String">Disfarce Melhorado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_stealth_upgrade_lost</Data></Cell>
+    <Cell><Data ss:Type="String">Stealth Upgrade Lost!</Data></Cell>
+    <Cell><Data ss:Type="String">Melhora do Disfarce Perdida!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_power_upgraded</Data></Cell>
+    <Cell><Data ss:Type="String">Power Mode Upgraded!</Data></Cell>
+    <Cell><Data ss:Type="String">Modo de Poder Melhorado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_power_upgrade_lost</Data></Cell>
+    <Cell><Data ss:Type="String">Power Upgrade Lost!</Data></Cell>
+    <Cell><Data ss:Type="String">Melhora do Poder Perdida!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_armour_upgraded</Data></Cell>
+    <Cell><Data ss:Type="String">Armor Upgraded!</Data></Cell>
+    <Cell><Data ss:Type="String">Armadura Melhorada!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_ext_armour_upgrade_lost</Data></Cell>
+    <Cell><Data ss:Type="String">Armor Upgrade Lost!</Data></Cell>
+    <Cell><Data ss:Type="String">Melhora da Armadura Perdida!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_spawn_preparingtoauto</Data></Cell>
+    <Cell><Data ss:Type="String">RESPAWNING...</Data></Cell>
+    <Cell><Data ss:Type="String">RESNASCENDO...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_status_0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">CAPTURE INTEL</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">CAPTURE INFORMAÇÕES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_status_1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">DEFEND INTEL TERMINALS</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">DEFENDA OS TERMINAIS DE INFORMAÇÕES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_status_2</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">TERMINAL BREACHED</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">TERMINAL INVADIDO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_restart_intel_retrieved_0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">All intel uploaded</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Todas Informações enviadas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_restart_intel_retrieved_1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">All intel uploaded</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Todas Informações enviadas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_restart_time_0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Attackers out of time</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Atacantes sem tempo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_restart_time_1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Attackers out of time</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Atacantes sem tempo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_new_round</Data></Cell>
+    <Cell><Data ss:Type="String">Starting round %1 of %2</Data></Cell>
+    <Cell><Data ss:Type="String">Iniciando rodada %1 de %2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_attacking</Data></Cell>
+    <Cell><Data ss:Type="String">ATTACKING</Data></Cell>
+    <Cell><Data ss:Type="String">ATACANDO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_defending</Data></Cell>
+    <Cell><Data ss:Type="String">DEFENDING</Data></Cell>
+    <Cell><Data ss:Type="String">DEFENDENDO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_intel_uploaded_0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Data uploaded</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Dados enviados</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_intel_uploaded_1</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">The enemy has uploaded data</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">O inimigo enviou os dados</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_uploading</Data></Cell>
+    <Cell><Data ss:Type="String">Uploading intel ...</Data></Cell>
+    <Cell><Data ss:Type="String">Enviando informações ...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_as_upload_done</Data></Cell>
+    <Cell><Data ss:Type="String">Upload complete</Data></Cell>
+    <Cell><Data ss:Type="String">Envio completo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_intel_point_under_attack</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Terminal under attack!</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Terminal sob ataque!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_cant_spawn_until_next_round</Data></Cell>
+    <Cell><Data ss:Type="String">RESPAWNING NEXT ROUND</Data></Cell>
+    <Cell><Data ss:Type="String">RENASCENDO NA PRÓXIMA RODADA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_all_defenders_eliminated</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">All defenders eliminated!</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Todos defensores eliminados!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_all_attackers_dead_0</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">All attackers eliminated!</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Todos atacantes eliminados!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_draw_resolved_time</Data></Cell>
+    <Cell><Data ss:Type="String">Decided by fastest round victory</Data></Cell>
+    <Cell><Data ss:Type="String">Decidido pela vitória de rodada mais rápida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_draw_resolved_data</Data></Cell>
+    <Cell><Data ss:Type="String">Decided by most data uploaded</Data></Cell>
+    <Cell><Data ss:Type="String">Decidido pela quantidade de dados enviados</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_attackersalive</Data></Cell>
+    <Cell><Data ss:Type="String">ATTACKERS ALIVE: %1</Data></Cell>
+    <Cell><Data ss:Type="String">ATACANTES VIVOS: %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_as_defendersalive</Data></Cell>
+    <Cell><Data ss:Type="String">DEFENDERS ALIVE: %1</Data></Cell>
+    <Cell><Data ss:Type="String">DEFENSORES VIVOS: %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_score_kill</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You Killed %1 for %2 points</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Você matou %1 por %2 pontos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_score_kill_assist</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You helped Kill %1 for %2 points</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Você ajudou a matar %1 por %2 pontos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_score_team_kill</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">You Team Killed %1 for %2 points</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Você matou uma Equipe %1 por %2 pontos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_score_ctf_flag_picked_up</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Relay picked up! %1 points</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Transmissor pego! %1 pontos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_score_ctf_flag_completed</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Relay captured! %1 points</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Transmissor capturado! %1 pontos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_msg_score_ctf_flag_retrieved</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Relay retrieved! %1 points</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Transmissor recuperado! %1 pontos</Data></Cell>
+   </Row>
+   <Row ss:Index="179">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_enter_gamemode_team_message</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">%1</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">0.01</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ui_enter_gamemode_team_message_small</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">%1 - %2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">%1 - %2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_hud_spec_spectating</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Spectating</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Assistindo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_hud_spec_currentmode</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Current mode: </Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Modo atual: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_hud_spec_mode_follow</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Follow</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Seguir</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_hud_spec_currentlywatching</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Following:  </Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Seguindo:  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s85">
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_hud_spec_currentcamera</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Current camera: </Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Câmera atual: </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="String">ui_hud_spec_fixed_controls1</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Move left or right to cycle cameras</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Mova para Esquerda ou Direita para girar as câmeras</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="String">ui_hud_spec_follow_controls1</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Move left or right to cycle players</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Mova para Esquerda ou Direita para girar os jogadores</Data></Cell>
+   </Row>
+   <Row ss:Index="190">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_changedLoadout</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Equipment will change on respawn</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Equipamento será alterado no renascimento</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_changedLoadout_small</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment available on respawn</Data></Cell>
+    <Cell><Data ss:Type="String">Equipamento disponível no renascimento</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotSuitBoost_selfTeam</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum Nanosuit enabled!</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Máxima habilitada!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotSuitBoost_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">The enemy have Maximum Nanosuit!</Data></Cell>
+    <Cell><Data ss:Type="String">O inimigo tem a Nanosuit Máxima!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotBetterRadar_selfTeam</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum Radar online!</Data></Cell>
+    <Cell><Data ss:Type="String">Radar Máximo online!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_announce_gotBetterRadar_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Maximum Radar Detected!</Data></Cell>
+    <Cell><Data ss:Type="String">Radar Máximo Inimigo Detectado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_oneMinuteLeft</Data></Cell>
+    <Cell><Data ss:Type="String">1 minute remaining!</Data></Cell>
+    <Cell><Data ss:Type="String">1 minuto restando!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotEnhancedRadar_self</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum Radar Available!</Data></Cell>
+    <Cell><Data ss:Type="String">Radar Máximo Disponível!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotEnhancedRadar_team</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum Radar Online!</Data></Cell>
+    <Cell><Data ss:Type="String">Radar Máximo Online!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotEnhancedRadar_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Maximum Radar Detected!</Data></Cell>
+    <Cell><Data ss:Type="String">Radar Máximo Inimigo Detectado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotMicrowaveBeam_self</Data></Cell>
+    <Cell><Data ss:Type="String">Orbital Strike Available!</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Orbital Disponível!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotMicrowaveBeam_team</Data></Cell>
+    <Cell><Data ss:Type="String">Orbital Strike Inbound!</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Orbital Próximo!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotMicrowaveBeam_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Orbital Strike Incoming!</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Orbital Inimigo Próximo!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotSuitDisrupter_self</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Jammer Available!</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência de Nanosuit Disponível!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotSuitDisrupter_team</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Jammer Inbound!</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência de Nanosuit próxima!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotSuitDisrupter_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Nanosuit Jammer Incoming!</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência de Nanosuit Inimiga!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotCounterRadar_self</Data></Cell>
+    <Cell><Data ss:Type="String">Radar Jammer Available!</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência de Radar Disponível!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotCounterRadar_team</Data></Cell>
+    <Cell><Data ss:Type="String">Radar Jammer Online!</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência de Radar Online!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotCounterRadar_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Radar Jammer Detected!</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência de Radar Inimigo Detectado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotAlienGunship_self</Data></Cell>
+    <Cell><Data ss:Type="String">Ceph Airstrike Available!</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Aéreo Ceph Disponível!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotAlienGunship_team</Data></Cell>
+    <Cell><Data ss:Type="String">Ceph Airstrike Inbound!</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Aéreo Ceph Próximo!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotAlienGunship_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Ceph Airstrike Incoming!</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Aéreo Ceph de Inimigo Próximo!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotMaximumSuit_self</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum Nanosuit Available!</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Máxima Disponível!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotMaximumSuit_team</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum Nanosuit Active!</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Máxima Ativa!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_announce_gotMaximumSuit_enemy</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy Maximum Nanosuit Activated!</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Máxima Inimiga Ativada!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_pickup_flag</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">[act] %1 to Take Relay</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">[act] %1 Pegar Transmissor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_pickup_extraction_tick</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">[act] %1 to Take Bio-Tick</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">[act] %1 Pegar Bio-Tecido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_drop_flag</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">[act] %1 to Drop Relay</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">[act] %1 Soltar Transmissor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_drop_extraction_tick</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">[act] %1 to Drop Bio-Tick</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">[act] %1 Soltar Bio-Tecido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_pickup_SCAR</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Hold %1 Pickup SCAR</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Segure %1 Pegar SCAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_pickup_SCARSniper</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Hold %1 Pickup Sniper Rifle</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Segure %1 Pegar Sniper Rifle</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_pickup_revolver</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Hold %1 Pickup Revolver</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Segure %1 Pegar Revólver</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_pickup_nova</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Hold %1 Pickup Nova</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Segure %1 Pegar Nova</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_pickup_LTAG</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Hold %1 Pickup L-TAG</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Segure %1 Pegar L-TAG</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_prompt_interact_pickup_KVOLT</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Hold %1 Pickup K-Volt</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Segure %1 Pegar K-Volt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_prompt_map_location</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Choose Location</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Escolher Local</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_prompt_map_direction</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Choose Direction</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Escolher Direção</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_prompt_map_deploy</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Deploy</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Implantar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_prompt_deployment_1</Data></Cell>
+    <Cell><Data ss:Type="String">Left Mouse to Choose Location</Data></Cell>
+    <Cell><Data ss:Type="String">Esquerdo do Mouse para Escolher Local</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_prompt_deployment_2</Data></Cell>
+    <Cell><Data ss:Type="String">Left Mouse to Choose Direction</Data></Cell>
+    <Cell><Data ss:Type="String">Esquerdo do Mouse para Escolher Direção</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_inputName_rightTrigger</Data></Cell>
+    <Cell><Data ss:Type="String">PULL RIGHT TRIGGER</Data></Cell>
+    <Cell><Data ss:Type="String">PUXAR GATILHO DIREITO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_inputName_leftTrigger</Data></Cell>
+    <Cell><Data ss:Type="String">PULL LEFT TRIGGER</Data></Cell>
+    <Cell><Data ss:Type="String">PUXAR GATILHO ESQUERDO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_inputName_clickLeftStick</Data></Cell>
+    <Cell><Data ss:Type="String">CLICK LEFT STICK</Data></Cell>
+    <Cell><Data ss:Type="String">CLIQUE A ALAVANCA DIREITA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_inputName_clickRightStick</Data></Cell>
+    <Cell><Data ss:Type="String">CLICK RIGHT STICK</Data></Cell>
+    <Cell><Data ss:Type="String">CLIQUE A ALAVANCA ESQUERDA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_map_deployment_countdown</Data></Cell>
+    <Cell><Data ss:Type="String">Deploying in %1</Data></Cell>
+    <Cell><Data ss:Type="String">Implantando em %1</Data></Cell>
+   </Row>
+   <Row ss:Index="237">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_msg_out_of_range</Data></Cell>
+    <Cell><Data ss:Type="String">Out of range</Data></Cell>
+    <Cell><Data ss:Type="String">Fora de alcance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_killed</Data></Cell>
+    <Cell><Data ss:Type="String">Killed %1</Data></Cell>
+    <Cell><Data ss:Type="String">Matou %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_killedby</Data></Cell>
+    <Cell><Data ss:Type="String">Killed by %1</Data></Cell>
+    <Cell><Data ss:Type="String">Mortou por %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_assist</Data></Cell>
+    <Cell><Data ss:Type="String">Assist</Data></Cell>
+    <Cell><Data ss:Type="String">Ajudar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_tagassist</Data></Cell>
+    <Cell><Data ss:Type="String">Tag Assist</Data></Cell>
+    <Cell><Data ss:Type="String">tag de Ajuda</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_teamkill</Data></Cell>
+    <Cell><Data ss:Type="String">Team-Killed %1</Data></Cell>
+    <Cell><Data ss:Type="String">Equipe Morta %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_teamkillby</Data></Cell>
+    <Cell><Data ss:Type="String">Team-Killed by %1</Data></Cell>
+    <Cell><Data ss:Type="String">equipe Morta por %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_suicide</Data></Cell>
+    <Cell><Data ss:Type="String">Committed Suicide</Data></Cell>
+    <Cell><Data ss:Type="String">Cometeu Suicídio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_ctf_pickup</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Relay Taken</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Transmissor Pego</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_ctf_completed</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Relay Captured</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Transmissor Capturado</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_scorepopup_ctf_retrieved</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Relay Secured</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Transmissor Protegido</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_singlehanded</Data></Cell>
+    <Cell><Data ss:Type="String">Single-Handed Bonus</Data></Cell>
+    <Cell><Data ss:Type="String">Bônus de Só com as Mãos</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_flagassist</Data></Cell>
+    <Cell><Data ss:Type="String">Relay Capture Assist</Data></Cell>
+    <Cell><Data ss:Type="String">Ajuda ao Capturar Transmissor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_ext_pickup</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bio-Tick Taken!</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bio-Tecido Pego!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_ext_completed</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bio-Tick Captured!</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bio-Tecido Capturado!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_scorepopup_ext_retrieved</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bio-Tick Secured!</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bio-Tecido Protegido!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_objective_taken</Data></Cell>
+    <Cell><Data ss:Type="String">Taken Objective</Data></Cell>
+    <Cell><Data ss:Type="String">Objetivo Pego</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_objective_retrieved</Data></Cell>
+    <Cell><Data ss:Type="String">Retrieved Objective</Data></Cell>
+    <Cell><Data ss:Type="String">Objetivo recuperado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_carrier_killed</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Carrier Kill</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Carregador Morto</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_carrier_defence</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Carrier Defense</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Carregador Defendido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_objective_defended</Data></Cell>
+    <Cell><Data ss:Type="String">Defended Objective</Data></Cell>
+    <Cell><Data ss:Type="String">Objetivos Defendidos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_objective_complete</Data></Cell>
+    <Cell><Data ss:Type="String">Objective Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Objectivo Completo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_objective_held</Data></Cell>
+    <Cell><Data ss:Type="String">Objective Held</Data></Cell>
+    <Cell><Data ss:Type="String">Objective Mantido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_holdobj_defensivekill</Data></Cell>
+    <Cell><Data ss:Type="String">Defensive Kill</Data></Cell>
+    <Cell><Data ss:Type="String">Morte Defensiva</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_holdobj_offensivekill</Data></Cell>
+    <Cell><Data ss:Type="String">Offensive Kill</Data></Cell>
+    <Cell><Data ss:Type="String">Morte Ofensiva</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_combicapobj_att_playerkill</Data></Cell>
+    <Cell><Data ss:Type="String">Killed %1</Data></Cell>
+    <Cell><Data ss:Type="String">Matou %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_combicapobj_def_playerkill</Data></Cell>
+    <Cell><Data ss:Type="String">Killed %1</Data></Cell>
+    <Cell><Data ss:Type="String">Matou %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_combicapobj_win</Data></Cell>
+    <Cell><Data ss:Type="String">Winner!</Data></Cell>
+    <Cell><Data ss:Type="String">Vencedor!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_combicapobj_def_win_intelremainbonus_max</Data></Cell>
+    <Cell><Data ss:Type="String">Data Bonus</Data></Cell>
+    <Cell><Data ss:Type="String">Dados Bônus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_combicapobj_att_lost_inteldownloadedbonus_max</Data></Cell>
+    <Cell><Data ss:Type="String">Upload Bonus</Data></Cell>
+    <Cell><Data ss:Type="String">Enviar Bônus</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_combicapobj_def_lost_timeremainBonus_Max</Data></Cell>
+    <Cell><Data ss:Type="String">Time Bonus</Data></Cell>
+    <Cell><Data ss:Type="String">Bônus de Tempo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_combicapobj_capturing_persec</Data></Cell>
+    <Cell><Data ss:Type="String">Upload Bonus</Data></Cell>
+    <Cell><Data ss:Type="String">Enviar Bônus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_objective_taken_ctf</Data></Cell>
+    <Cell><Data ss:Type="String">Relay Taken</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor Pego</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_objective_retrieved_ctf</Data></Cell>
+    <Cell><Data ss:Type="String">Relay Retrieved</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor Recuperado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_carrier_killed_ctf</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Relay Carrier Killed</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Carregador do Transmissor Morto</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_objective_defended_ctf</Data></Cell>
+    <Cell><Data ss:Type="String">Defended Relay Base</Data></Cell>
+    <Cell><Data ss:Type="String">Base do Transmissor Defendida</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_objective_complete_ctf</Data></Cell>
+    <Cell><Data ss:Type="String">Relay Captured</Data></Cell>
+    <Cell><Data ss:Type="String">Transmissor Capturado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_scorepopup_suddendeath</Data></Cell>
+    <Cell><Data ss:Type="String">SUDDEN DEATH</Data></Cell>
+    <Cell><Data ss:Type="String">MORTE SÚBITA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_dogtags</Data></Cell>
+    <Cell><Data ss:Type="String">Dogtag Collected!</Data></Cell>
+    <Cell><Data ss:Type="String">Dogtag Coletada!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_teamradar</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum Radar Online!</Data></Cell>
+    <Cell><Data ss:Type="String">Radar Máximo Online!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_microwavebeam</Data></Cell>
+    <Cell><Data ss:Type="String">Orbital Strike Deployed!</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Orbital Implantado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_counterradar</Data></Cell>
+    <Cell><Data ss:Type="String">Radar Jammer Deployed!</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência de Radar Implantada!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_suitboost</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum Nanosuit Activated!</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Máxima Ativada!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_gunship</Data></Cell>
+    <Cell><Data ss:Type="String">Ceph Airstrike Deployed!</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Aéreo Ceph Implantado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_headshot</Data></Cell>
+    <Cell><Data ss:Type="String">Headshot!</Data></Cell>
+    <Cell><Data ss:Type="String">Tiro na Cabeça!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_headshot_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Bullet in the head</Data></Cell>
+    <Cell><Data ss:Type="String">Balas na cabeça</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_airdeath</Data></Cell>
+    <Cell><Data ss:Type="String">Dead Air!</Data></Cell>
+    <Cell><Data ss:Type="String">Morte Aérea!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_airdeath_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Mid-air kill</Data></Cell>
+    <Cell><Data ss:Type="String">Morte no Ar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_meleetakedown</Data></Cell>
+    <Cell><Data ss:Type="String">Smackdown!</Data></Cell>
+    <Cell><Data ss:Type="String">Esmagado!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_meleetakedown_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Melee takedown</Data></Cell>
+    <Cell><Data ss:Type="String">Derrubado Manualmente</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_blindkill</Data></Cell>
+    <Cell><Data ss:Type="String">Blind Fury!</Data></Cell>
+    <Cell><Data ss:Type="String">Fúria Solta!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_blindkill_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Kill while blinded</Data></Cell>
+    <Cell><Data ss:Type="String">Mortar enquanto cego</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_firstblood</Data></Cell>
+    <Cell><Data ss:Type="String">First Strike!</Data></Cell>
+    <Cell><Data ss:Type="String">Primeira Investida!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_firstblood_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Score the first kill</Data></Cell>
+    <Cell><Data ss:Type="String">Pontue a primeira morte</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_rumbled</Data></Cell>
+    <Cell><Data ss:Type="String">Busted!</Data></Cell>
+    <Cell><Data ss:Type="String">Queimado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_rumbled_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Kill a cloaked enemy</Data></Cell>
+    <Cell><Data ss:Type="String">Mate um inimigo camuflado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_neardeathexperience</Data></Cell>
+    <Cell><Data ss:Type="String">Defiant!</Data></Cell>
+    <Cell><Data ss:Type="String">Desafiador!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_neardeathexperience_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Kill while near-death</Data></Cell>
+    <Cell><Data ss:Type="String">Mate enquanto agonizar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_killjoy</Data></Cell>
+    <Cell><Data ss:Type="String">Denied!</Data></Cell>
+    <Cell><Data ss:Type="String">Negado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_killjoy_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Enemy spree halted</Data></Cell>
+    <Cell><Data ss:Type="String">Parou a farra do inimigo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_stealthkill</Data></Cell>
+    <Cell><Data ss:Type="String">Specter!</Data></Cell>
+    <Cell><Data ss:Type="String">Espectador!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_stealthkill_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Stealth takedown</Data></Cell>
+    <Cell><Data ss:Type="String">Morte disfarçada</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_doublekill</Data></Cell>
+    <Cell><Data ss:Type="String">Double Kill!</Data></Cell>
+    <Cell><Data ss:Type="String">Morte Dupla!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_doublekill_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Two kill combo</Data></Cell>
+    <Cell><Data ss:Type="String">Combo de duas mortes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_triplekill</Data></Cell>
+    <Cell><Data ss:Type="String">Triple Kill!</Data></Cell>
+    <Cell><Data ss:Type="String">Morte Tripla!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_triplekill_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Three kill combo</Data></Cell>
+    <Cell><Data ss:Type="String">Combo de três mortes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_quadkill</Data></Cell>
+    <Cell><Data ss:Type="String">Relentless!</Data></Cell>
+    <Cell><Data ss:Type="String">Implacável!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_quadkill_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Four kill combo</Data></Cell>
+    <Cell><Data ss:Type="String">Combo de quatro mortes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_quinkill</Data></Cell>
+    <Cell><Data ss:Type="String">Psycho!</Data></Cell>
+    <Cell><Data ss:Type="String">Psiquico!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_quinkill_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Five kill combo</Data></Cell>
+    <Cell><Data ss:Type="String">Combo de cinco mortes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_gotyourback</Data></Cell>
+    <Cell><Data ss:Type="String">Wingman!</Data></Cell>
+    <Cell><Data ss:Type="String">Voador!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_gotyourback_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Protect a teammate</Data></Cell>
+    <Cell><Data ss:Type="String">Proteja um parceiro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_retaliation</Data></Cell>
+    <Cell><Data ss:Type="String">Vengeance!</Data></Cell>
+    <Cell><Data ss:Type="String">Vingança!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_retaliation_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Avenge your own death</Data></Cell>
+    <Cell><Data ss:Type="String">Vingue sua própria morte</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_piercing</Data></Cell>
+    <Cell><Data ss:Type="String">Puncture!</Data></Cell>
+    <Cell><Data ss:Type="String">Punção!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_piercing_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Kill through an object</Data></Cell>
+    <Cell><Data ss:Type="String">Mate usando um objeto</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_guardian</Data></Cell>
+    <Cell><Data ss:Type="String">Guardian!</Data></Cell>
+    <Cell><Data ss:Type="String">Guardião!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_guardian_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Save a wounded teammate</Data></Cell>
+    <Cell><Data ss:Type="String">Salve um parceiro ferido</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_blinding</Data></Cell>
+    <Cell><Data ss:Type="String">Blinding!</Data></Cell>
+    <Cell><Data ss:Type="String">Cegando!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_blinding_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Stun and gun</Data></Cell>
+    <Cell><Data ss:Type="String">Aturdir e matar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_dualweapon</Data></Cell>
+    <Cell><Data ss:Type="String">Combined Fire!</Data></Cell>
+    <Cell><Data ss:Type="String">Tiro Combinado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_dualweapon_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Two guns one kill</Data></Cell>
+    <Cell><Data ss:Type="String">Duas armas uma morte</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_intervention</Data></Cell>
+    <Cell><Data ss:Type="String">Intervention!</Data></Cell>
+    <Cell><Data ss:Type="String">Intervenção!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_intervention_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Pre-emptive kill</Data></Cell>
+    <Cell><Data ss:Type="String">Morte Preventiva</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_blind_assist</Data></Cell>
+    <Cell><Data ss:Type="String">Bang and Clear!</Data></Cell>
+    <Cell><Data ss:Type="String">Bater e limpar!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_blind_assist_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Flash bang assist</Data></Cell>
+    <Cell><Data ss:Type="String">Ajude a atordoar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_flushed</Data></Cell>
+    <Cell><Data ss:Type="String">Flushed!</Data></Cell>
+    <Cell><Data ss:Type="String">Descarregado!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_flushed_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Grenade then kill an enemy</Data></Cell>
+    <Cell><Data ss:Type="String">Use a granada e mateum inimigo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_flushed_assist</Data></Cell>
+    <Cell><Data ss:Type="String">Tag Team!</Data></Cell>
+    <Cell><Data ss:Type="String">Tag da Equipe!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_flushed_assist_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Grenade assist</Data></Cell>
+    <Cell><Data ss:Type="String">Ajuda na Granada</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_recovery</Data></Cell>
+    <Cell><Data ss:Type="String">Resurgence!</Data></Cell>
+    <Cell><Data ss:Type="String">Renascimento!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_recovery_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Halt your death streak</Data></Cell>
+    <Cell><Data ss:Type="String">Pare sua série de mortes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_kickedcar</Data></Cell>
+    <Cell><Data ss:Type="String">Road Rage!</Data></Cell>
+    <Cell><Data ss:Type="String">Fúria na Estrada!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_kickedcar_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Kill with a vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">Mate com um veículo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_message_fatality_bonus</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Active</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Ativo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_aliengunship</Data></Cell>
+    <Cell><Data ss:Type="String">Ceph Airstrike Incoming!</Data></Cell>
+    <Cell><Data ss:Type="String">Ataque Aéreo Ceph Chegando!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_suitdisruptor</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Jammer Deployed!</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência de Nanosuit Implantada!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_xppoints_destroy_gunship</Data></Cell>
+    <Cell><Data ss:Type="String">Ceph Gunship Destroyed!</Data></Cell>
+    <Cell><Data ss:Type="String">Aeronave Ceph Destruída!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ui_xppoints_destroy_disruptor</Data></Cell>
+    <Cell><Data ss:Type="String">Nanosuit Jammer Destroyed!</Data></Cell>
+    <Cell><Data ss:Type="String">Interferência de Nanosuit Destruída!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_battlelog_player_join</Data></Cell>
+    <Cell><Data ss:Type="String">Player %1 has joined the game!</Data></Cell>
+    <Cell><Data ss:Type="String">Jogador %1 entrou no jogo!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_battlelog_player_leave</Data></Cell>
+    <Cell><Data ss:Type="String">Player %1 has left the game!</Data></Cell>
+    <Cell><Data ss:Type="String">Jogador %1 saiu do jogo!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_battlelog_rank</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2!</Data></Cell>
+    <Cell><Data ss:Type="String">%1 - %2!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_battlelog_promotion_message</Data></Cell>
+    <Cell><Data ss:Type="String">Player %1 has been promoted to Rank %2</Data></Cell>
+    <Cell><Data ss:Type="String">Jogador %1 foi promovido para o Rank %2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_score_notify_promoted</Data></Cell>
+    <Cell><Data ss:Type="String">PROMOTION</Data></Cell>
+    <Cell><Data ss:Type="String">PROMOÇÃO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_score_notify_support_bonus</Data></Cell>
+    <Cell><Data ss:Type="String">SUPPORT BONUS</Data></Cell>
+    <Cell><Data ss:Type="String">BÔNUS DE AJUDA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_score_notify_skill_kill</Data></Cell>
+    <Cell><Data ss:Type="String">SKILL KILL</Data></Cell>
+    <Cell><Data ss:Type="String">HABILIDADE DE MORTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_MostValuable</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MOST VALUABLE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MAIS VALIOSO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_MostMotivated</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MOST MOTIVATED</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MAIS MOTIVADO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_MostSneaky</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MOST SNEAKY</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MAIS FURTIVO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Mostcowardly</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MOST COWARDLY</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MAIS COVARDE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Ninja</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">NINJA</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">NINJA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_SpeedDemon</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">SPEED DEMON</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">DEMÔNIO DA VELOCIDADE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_ArmourPlating</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ARMOR PLATING</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BLINDAGEM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_AdvancedRecon</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ADVANCED RECON</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">RECON AVANÇADO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Assassin</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ASSASSIN</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ASSASSINO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Adaptable</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ADAPTABLE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ADAPTÁVEL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Murderiser</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MURDERIZER</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">TORTURADOR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_GlassJaw</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">GLASS JAW</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">GLASS JAW</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Untouchable</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">UNTOUCHABLE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">INTOCÁVEL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Rampage</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">RAMPAGE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">VIOLÊNCIA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_DemolitionMan</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">DEMOLITION MAN</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">HOMEM DEMOLIÇÃO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_KeepYourHeadDown</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">KEEP YOUR HEAD DOWN</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">MANTENHA A CABEÇA ABAIXADA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_LeapOfFaith</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">LEAP OF FAITH</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SALTO DE FÉ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_AidingRadar</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">AIDING RADAR</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">APOIO AO RADAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_IsItABird</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">IS IT A BIRD?</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">É UM PÁSSARO?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Relentless</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">VENDETTA</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">VENDETA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Genocide</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">GENOCIDE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">GENOCÍDIO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Exhibitionist</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">EXHIBITIONIST</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">EXIBICIONISTA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Magpie</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MAGPIE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MAGPIE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_ClayPigeon</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">CLAY PIGEON</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">POMBO DE BARRO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_XRayVision</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">X-RAY VISION</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">VISÃO RAIO-X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_StandardBearer</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">STANDARD BEARER</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">PORTADOR PADRÃO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_DugIn</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">DUG IN</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">CAVADO EM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Alienated</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ALIENATED</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ALIENADO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Technomancer</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">TECHNOMANCER</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">CIENTISTA LOUCO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Bing</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BING!</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BING!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_BangOn</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BANG ON</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BANG ON</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_BulletsCostMoney</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">BULLETS COST MONEY</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">BALAS CUSTAM DINHEIRO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_BattlefieldSurgery</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">BATTLEFIELD SURGERY</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SUGESTÃO DE CAMPO DE BATALHA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_MostSelfish</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">MOST SELFISH</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">MAIS EGOÍSTA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_ToolsOfTheTrade</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">TOOLS OF THE TRADE</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">FERRAMENTAS DE COMÉRCIO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_SprayAndPray</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SPRAY AND PRAY</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ESPIRRE E REZE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_BigBanger</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BIG BANGER</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BIG BANGER</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Robbed</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ROBBED</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ROUBADO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_MoneyShot</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MONEY SHOT</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">TIRO CARO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_SingleMinded</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">SINGLE MINDED</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">SÓ PENSANDO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_DontPanic</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">DON'T PANIC!</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">SEM PÂNICO!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_LoneWolf</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">LONE WOLF</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">LOBO SÓ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_NeverSayDie</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">NEVER SAY DIE</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">NUNCA DIGA MORTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_EnergeticBunny</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ENERGETIC BUNNY</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">COELHO ENERGÉTICO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Warbird</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">WARBIRD</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">PÁSSARO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Impregnable</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">IMPREGNABLE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">IMPREGNÁVEL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_TargetLocked</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">TARGET LOCKED</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ALVO TRAVADO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_SafetyInNumbers</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">SAFETY IN NUMBERS</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">SEGURANÇA EM NÚMEROS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Spanked</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">SPANKED</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ESPANCADO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Pardon</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">PARDON?</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">PERDÃO?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_DirtyDozen</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">DIRTY DOZEN</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">DUZIA SUJA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Codpiece</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">CODPIECE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">PARTE DE CÓDIGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_MountieScore</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MOUNTIE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">MONTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_RipOff</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">RIP OFF</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ARRANCAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_ProTips</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">PRO TIPS</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">DICAS PRO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_WrongPlaceWrongTime</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">WRONG PLACE, WRONG TIME</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">LUGAR ERRADO, HORA ERRADA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Observer</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">OBSERVER</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">OBSERVADOR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Invincible</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">INVINCIBLE</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">INVENCÍVEL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Untouchable2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">GOOD CONDITION</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">BOA CONDIÇÃO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Punisher</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">PUNISHER</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">JUSTICEIRO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_BulletMagnet</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BULLET MAGNET</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BALA MAGNÉTICA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Pacifist</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">PACIFIST</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">PACIFISTA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Icy</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ICY</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">GELO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_Boing</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BOING!</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BOING!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_menu_awards_EAMA_AttentionSeeker</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">ATTENTION SEEKER</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">BUSCA DE ATENÇÃO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_killcam_analysis</Data></Cell>
+    <Cell><Data ss:Type="String">ANALYSIS</Data></Cell>
+    <Cell><Data ss:Type="String">ANÁSISE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_killcam_weapon</Data></Cell>
+    <Cell><Data ss:Type="String">WEAPON</Data></Cell>
+    <Cell><Data ss:Type="String">ARMA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_killcam_suitmode</Data></Cell>
+    <Cell><Data ss:Type="String">SUIT MODE</Data></Cell>
+    <Cell><Data ss:Type="String">MODO DA SUIT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_killcam_perks</Data></Cell>
+    <Cell><Data ss:Type="String">NANOSUIT MODULES</Data></Cell>
+    <Cell><Data ss:Type="String">MÓDULOS DA NANOSUIT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_killcam_footer</Data></Cell>
+    <Cell><Data ss:Type="String">LIVE STREAM ANALYSIS COMPLETE UPLOADING TO SERVER...</Data></Cell>
+    <Cell><Data ss:Type="String">ANÁLISE DO FLUXO DE VIVOS COMPLETA E ENVIANDO AO SERVIDOR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_killcam_header</Data></Cell>
+    <Cell><Data ss:Type="String">STREAMING KILL FROM</Data></Cell>
+    <Cell><Data ss:Type="String">SÉRIE DE MORTES DE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_killcam_header_winningkill</Data></Cell>
+    <Cell><Data ss:Type="String">STREAMING FINAL KILL FROM</Data></Cell>
+    <Cell><Data ss:Type="String">SÉRIE FINAL DE MORTES DE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_killcam_kill_replay</Data></Cell>
+    <Cell><Data ss:Type="String">KILL REPLAY</Data></Cell>
+    <Cell><Data ss:Type="String">VER A MORTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_killcam_victory_kill</Data></Cell>
+    <Cell><Data ss:Type="String">FINAL KILL</Data></Cell>
+    <Cell><Data ss:Type="String">MORTE FINAL</Data></Cell>
+   </Row>
+   <Row ss:Index="426">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_menu_teamfull_title</Data></Cell>
+    <Cell><Data ss:Type="String">TEAM FULL</Data></Cell>
+    <Cell><Data ss:Type="String">EQUIPE CHEIA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_menu_teamfull</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Full</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Cheio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_menu_switchteam_title</Data></Cell>
+    <Cell><Data ss:Type="String">SWITCH TEAM</Data></Cell>
+    <Cell><Data ss:Type="String">TROCAR EQUIPE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_menu_switchteam</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Are you sure?</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Tem certeza?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">menu_btn_switchteam</Data></Cell>
+    <Cell><Data ss:Type="String">SWITCH TEAM</Data></Cell>
+    <Cell><Data ss:Type="String">TROCAR EQUIPE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">menu_tooltip_switchteam</Data></Cell>
+    <Cell><Data ss:Type="String">Change to the opposite team</Data></Cell>
+    <Cell><Data ss:Type="String">Mudar para a equipe oposta</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_hud_team_auto</Data></Cell>
+    <Cell><Data ss:Type="String">Auto-Select Team</Data></Cell>
+    <Cell><Data ss:Type="String">Auto-Selecionar equipe</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_menu_chooseteam_heading</Data></Cell>
+    <Cell><Data ss:Type="String">TEAM SELECT</Data></Cell>
+    <Cell><Data ss:Type="String">SELECIONAR EQUIPE</Data></Cell>
+   </Row>
+   <Row ss:Index="435">
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_chattype_team</Data></Cell>
+    <Cell><Data ss:Type="String">(TEAM):</Data></Cell>
+    <Cell><Data ss:Type="String">(EQUIPE):</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell><Data ss:Type="String">ui_chattype_all</Data></Cell>
+    <Cell><Data ss:Type="String">(ALL):</Data></Cell>
+    <Cell><Data ss:Type="String">(TODOS):</Data></Cell>
+   </Row>
+   <Row ss:Index="438">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_hud_support_bonus_subtitle</Data></Cell>
+    <Cell><Data ss:Type="String">COLLECTED</Data></Cell>
+    <Cell><Data ss:Type="String">COLETADOS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_hud_support_bonus_subtitle2</Data></Cell>
+    <Cell><Data ss:Type="String">PRESS</Data></Cell>
+    <Cell><Data ss:Type="String">PRESSIONE</Data></Cell>
+   </Row>
+   <Row ss:Index="441">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_loadout_match_starting</Data></Cell>
+    <Cell><Data ss:Type="String">MATCH STARTING IN: %1</Data></Cell>
+    <Cell><Data ss:Type="String">PARTIDA INICIANDO EM: %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_loadout_round_starting</Data></Cell>
+    <Cell><Data ss:Type="String">ROUND %1 STARTING IN: %2</Data></Cell>
+    <Cell><Data ss:Type="String">RODADA %1 INICIANDO EM: %2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_loadout_autospawn</Data></Cell>
+    <Cell><Data ss:Type="String">AUTOSPAWN IN: %1</Data></Cell>
+    <Cell><Data ss:Type="String">RENASCER EM: %1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_hud_top3scoreboard_topscorer</Data></Cell>
+    <Cell><Data ss:Type="String">TOP SCORERS</Data></Cell>
+    <Cell><Data ss:Type="String">TOP PONTUADORES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_hud_top3scoreboard_mvp</Data></Cell>
+    <Cell><Data ss:Type="String">MOST VALUABLE PLAYER</Data></Cell>
+    <Cell><Data ss:Type="String">JOGADOR MAIS VALIOSO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_hud_mvp_InstantAction</Data></Cell>
+    <Cell><Data ss:Type="String">MOST KILLS</Data></Cell>
+    <Cell><Data ss:Type="String">MAIS MORTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_hud_mvp_TeamInstantAction</Data></Cell>
+    <Cell><Data ss:Type="String">MOST LETHAL</Data></Cell>
+    <Cell><Data ss:Type="String">MAIS LETAL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_hud_mvp_Extraction</Data></Cell>
+    <Cell><Data ss:Type="String">MOST EXTRACTION POINTS</Data></Cell>
+    <Cell><Data ss:Type="String">MAIS PONTOS DE EXTRAÇÃO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_hud_mvp_CrashSite</Data></Cell>
+    <Cell><Data ss:Type="String">MOST CRASH SITE POINTS</Data></Cell>
+    <Cell><Data ss:Type="String">MAIS PONTOS NO LOCAL DA QUEDA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_hud_mvp_Assault</Data></Cell>
+    <Cell><Data ss:Type="String">MOST ASSAULT POINTS</Data></Cell>
+    <Cell><Data ss:Type="String">MAIS PONTOS DE ATAQUE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_hud_mvp_CaptureTheFlag</Data></Cell>
+    <Cell><Data ss:Type="String">MOST CAPTURE THE RELAY POINTS</Data></Cell>
+    <Cell><Data ss:Type="String">MAIS PONTOS EM CAPTURAR O TRANSMISSOR</Data></Cell>
+   </Row>
+   <Row ss:Index="453">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ctf_defend</Data></Cell>
+    <Cell><Data ss:Type="String">DEFEND</Data></Cell>
+    <Cell><Data ss:Type="String">DEFENDER</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ctf_return</Data></Cell>
+    <Cell><Data ss:Type="String">RETURN</Data></Cell>
+    <Cell><Data ss:Type="String">RETORNAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ctf_escort</Data></Cell>
+    <Cell><Data ss:Type="String">ESCORT</Data></Cell>
+    <Cell><Data ss:Type="String">ESCOLTAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ctf_seize</Data></Cell>
+    <Cell><Data ss:Type="String">TAKE</Data></Cell>
+    <Cell><Data ss:Type="String">PEGAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ctf_kill</Data></Cell>
+    <Cell><Data ss:Type="String">KILL</Data></Cell>
+    <Cell><Data ss:Type="String">MATAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ctf_base</Data></Cell>
+    <Cell><Data ss:Type="String">BASE</Data></Cell>
+    <Cell><Data ss:Type="String">BASE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_cs_defend</Data></Cell>
+    <Cell><Data ss:Type="String">DEFEND</Data></Cell>
+    <Cell><Data ss:Type="String">DEFENDER</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_cs_clear</Data></Cell>
+    <Cell><Data ss:Type="String">CLEAR</Data></Cell>
+    <Cell><Data ss:Type="String">LIMPAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_cs_capture</Data></Cell>
+    <Cell><Data ss:Type="String">CAPTURE</Data></Cell>
+    <Cell><Data ss:Type="String">CAPTURAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ex_defend</Data></Cell>
+    <Cell><Data ss:Type="String">DEFEND</Data></Cell>
+    <Cell><Data ss:Type="String">DEFENDER</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ex_escort</Data></Cell>
+    <Cell><Data ss:Type="String">ESCORT</Data></Cell>
+    <Cell><Data ss:Type="String">ESCOLTAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ex_seize</Data></Cell>
+    <Cell><Data ss:Type="String">TAKE</Data></Cell>
+    <Cell><Data ss:Type="String">PEGAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ex_kill</Data></Cell>
+    <Cell><Data ss:Type="String">KILL</Data></Cell>
+    <Cell><Data ss:Type="String">MATAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_icon_ex_extraction</Data></Cell>
+    <Cell><Data ss:Type="String">EXTRACTION</Data></Cell>
+    <Cell><Data ss:Type="String">EXTRAÇÃO</Data></Cell>
+   </Row>
+   <Row ss:Index="468">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_leaving_battle_area</Data></Cell>
+    <Cell><Data ss:Type="String">RETURN TO BATTLE AREA</Data></Cell>
+    <Cell><Data ss:Type="String">RETORNAR A ÁREA DE BATALHA</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>115</Zoom>
+   <Selected/>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <ConditionalFormatting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R444C2:R451C2</Range>
+   <Condition>
+    <Value1>AND(COUNTIF(C2, RC)&gt;1,NOT(ISBLANK(RC)))</Value1>
+    <Format Style='color:#9C0006;background:#FFC7CE'/>
+   </Condition>
+  </ConditionalFormatting>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <TopRowVisible>78</TopRowVisible>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,860 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>tpartlett</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2007-09-23T13:11:14Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>5580</WindowHeight>
+  <WindowWidth>19095</WindowWidth>
+  <WindowTopX>-15</WindowTopX>
+  <WindowTopY>-15</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Hyperlink">
+   <Font ss:FontName="Arial" ss:Color="#0000FF" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#99CC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#666699" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82" ss:Parent="s62">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C3"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="110" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s63">
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="13.5"/>
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="224.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="323.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="289.5"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="129"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51" ss:StyleID="s66">
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">CONTEXT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s66">
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">This contains original text meant for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line.</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">This contains text for subtitles. Use descriptive expressions like &lt;frantic laughter&gt; and ## for a new line</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s77"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_</Data></Cell>
+    <Cell><Data ss:Type="String">???</Data></Cell>
+    <Cell><Data ss:Type="String">???</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_space</Data></Cell>
+    <Cell><Data ss:Type="String">Space</Data></Cell>
+    <Cell><Data ss:Type="String">Espaço</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_lshift</Data></Cell>
+    <Cell><Data ss:Type="String">Left Shift</Data></Cell>
+    <Cell><Data ss:Type="String">Shift Esquerdo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_rshift</Data></Cell>
+    <Cell><Data ss:Type="String">Right Shift</Data></Cell>
+    <Cell><Data ss:Type="String">Shift Direito</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_lctrl</Data></Cell>
+    <Cell><Data ss:Type="String">Left Ctrl</Data></Cell>
+    <Cell><Data ss:Type="String">Ctrl Esquerdo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_rctrl</Data></Cell>
+    <Cell><Data ss:Type="String">Right Ctrl</Data></Cell>
+    <Cell><Data ss:Type="String">Ctrl Direito</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_tab</Data></Cell>
+    <Cell><Data ss:Type="String">Tab</Data></Cell>
+    <Cell><Data ss:Type="String">Tab</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_backspace</Data></Cell>
+    <Cell><Data ss:Type="String">Backspace</Data></Cell>
+    <Cell><Data ss:Type="String">Backspace</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_escape</Data></Cell>
+    <Cell><Data ss:Type="String">Escape</Data></Cell>
+    <Cell><Data ss:Type="String">Escape</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_enter</Data></Cell>
+    <Cell><Data ss:Type="String">Enter</Data></Cell>
+    <Cell><Data ss:Type="String">Enter</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_lalt</Data></Cell>
+    <Cell><Data ss:Type="String">Alt</Data></Cell>
+    <Cell><Data ss:Type="String">Alt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_ralt</Data></Cell>
+    <Cell><Data ss:Type="String">Right Alt</Data></Cell>
+    <Cell><Data ss:Type="String">Alt Direito</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_capslock</Data></Cell>
+    <Cell><Data ss:Type="String">Caps Lock</Data></Cell>
+    <Cell><Data ss:Type="String">Caps Lock</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_numlock</Data></Cell>
+    <Cell><Data ss:Type="String">Num Lock</Data></Cell>
+    <Cell><Data ss:Type="String">Num Lock</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_scrolllock</Data></Cell>
+    <Cell><Data ss:Type="String">Scroll Lock</Data></Cell>
+    <Cell><Data ss:Type="String">Scroll Lock</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_1</Data></Cell>
+    <Cell><Data ss:Type="String">Num 1</Data></Cell>
+    <Cell><Data ss:Type="String">Num 1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_2</Data></Cell>
+    <Cell><Data ss:Type="String">Num 2</Data></Cell>
+    <Cell><Data ss:Type="String">Num 2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_3</Data></Cell>
+    <Cell><Data ss:Type="String">Num 3</Data></Cell>
+    <Cell><Data ss:Type="String">Num 3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_4</Data></Cell>
+    <Cell><Data ss:Type="String">Num 4</Data></Cell>
+    <Cell><Data ss:Type="String">Num 4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_5</Data></Cell>
+    <Cell><Data ss:Type="String">Num 5</Data></Cell>
+    <Cell><Data ss:Type="String">Num 5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_6</Data></Cell>
+    <Cell><Data ss:Type="String">Num 6</Data></Cell>
+    <Cell><Data ss:Type="String">Num 6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_7</Data></Cell>
+    <Cell><Data ss:Type="String">Num 7</Data></Cell>
+    <Cell><Data ss:Type="String">Num 7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_8</Data></Cell>
+    <Cell><Data ss:Type="String">Num 8</Data></Cell>
+    <Cell><Data ss:Type="String">Num 8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_9</Data></Cell>
+    <Cell><Data ss:Type="String">Num 9</Data></Cell>
+    <Cell><Data ss:Type="String">Num 9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_0</Data></Cell>
+    <Cell><Data ss:Type="String">Num 0</Data></Cell>
+    <Cell><Data ss:Type="String">Num 0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_period</Data></Cell>
+    <Cell><Data ss:Type="String">Num .</Data></Cell>
+    <Cell><Data ss:Type="String">Num .</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_enter</Data></Cell>
+    <Cell><Data ss:Type="String">Num Enter</Data></Cell>
+    <Cell><Data ss:Type="String">Num Enter</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_multiply</Data></Cell>
+    <Cell><Data ss:Type="String">Num *</Data></Cell>
+    <Cell><Data ss:Type="String">Num *</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_subtract</Data></Cell>
+    <Cell><Data ss:Type="String">Num -</Data></Cell>
+    <Cell><Data ss:Type="String">Num -</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_add</Data></Cell>
+    <Cell><Data ss:Type="String">Num+</Data></Cell>
+    <Cell><Data ss:Type="String">Num+</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_np_divide</Data></Cell>
+    <Cell><Data ss:Type="String">Num /</Data></Cell>
+    <Cell><Data ss:Type="String">Num /</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_print</Data></Cell>
+    <Cell><Data ss:Type="String">Prnt Screen</Data></Cell>
+    <Cell><Data ss:Type="String">Prnt Screen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_pause</Data></Cell>
+    <Cell><Data ss:Type="String">Pause</Data></Cell>
+    <Cell><Data ss:Type="String">Pause</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_home</Data></Cell>
+    <Cell><Data ss:Type="String">Home</Data></Cell>
+    <Cell><Data ss:Type="String">Home</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_pgup</Data></Cell>
+    <Cell><Data ss:Type="String">Page Up</Data></Cell>
+    <Cell><Data ss:Type="String">Page Up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_pgdn</Data></Cell>
+    <Cell><Data ss:Type="String">Page Down</Data></Cell>
+    <Cell><Data ss:Type="String">Page Down</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_left</Data></Cell>
+    <Cell><Data ss:Type="String">Left</Data></Cell>
+    <Cell><Data ss:Type="String">Esquerda</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_right</Data></Cell>
+    <Cell><Data ss:Type="String">Right</Data></Cell>
+    <Cell><Data ss:Type="String">Direita</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_up</Data></Cell>
+    <Cell><Data ss:Type="String">Up</Data></Cell>
+    <Cell><Data ss:Type="String">Acima</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_down</Data></Cell>
+    <Cell><Data ss:Type="String">Down</Data></Cell>
+    <Cell><Data ss:Type="String">Abaixo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_insert</Data></Cell>
+    <Cell><Data ss:Type="String">Insert</Data></Cell>
+    <Cell><Data ss:Type="String">Insert</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_delete</Data></Cell>
+    <Cell><Data ss:Type="String">Delete</Data></Cell>
+    <Cell><Data ss:Type="String">Delete</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_end</Data></Cell>
+    <Cell><Data ss:Type="String">End</Data></Cell>
+    <Cell><Data ss:Type="String">End</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_lwin</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_rwin</Data></Cell>
+    <Cell><Data ss:Type="String">Right Windows</Data></Cell>
+    <Cell><Data ss:Type="String">Windows Direito</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_apps</Data></Cell>
+    <Cell><Data ss:Type="String">Application</Data></Cell>
+    <Cell><Data ss:Type="String">Application</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f1</Data></Cell>
+    <Cell><Data ss:Type="String">F1</Data></Cell>
+    <Cell><Data ss:Type="String">F1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f2</Data></Cell>
+    <Cell><Data ss:Type="String">F2</Data></Cell>
+    <Cell><Data ss:Type="String">F2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f3</Data></Cell>
+    <Cell><Data ss:Type="String">F3</Data></Cell>
+    <Cell><Data ss:Type="String">F3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f4</Data></Cell>
+    <Cell><Data ss:Type="String">F4</Data></Cell>
+    <Cell><Data ss:Type="String">F4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f5</Data></Cell>
+    <Cell><Data ss:Type="String">F5</Data></Cell>
+    <Cell><Data ss:Type="String">F5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f6</Data></Cell>
+    <Cell><Data ss:Type="String">F6</Data></Cell>
+    <Cell><Data ss:Type="String">F6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f7</Data></Cell>
+    <Cell><Data ss:Type="String">F7</Data></Cell>
+    <Cell><Data ss:Type="String">F7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f8</Data></Cell>
+    <Cell><Data ss:Type="String">F8</Data></Cell>
+    <Cell><Data ss:Type="String">F8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f9</Data></Cell>
+    <Cell><Data ss:Type="String">F9</Data></Cell>
+    <Cell><Data ss:Type="String">F9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f10</Data></Cell>
+    <Cell><Data ss:Type="String">F10</Data></Cell>
+    <Cell><Data ss:Type="String">F10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f11</Data></Cell>
+    <Cell><Data ss:Type="String">F11</Data></Cell>
+    <Cell><Data ss:Type="String">F11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f12</Data></Cell>
+    <Cell><Data ss:Type="String">F12</Data></Cell>
+    <Cell><Data ss:Type="String">F12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f13</Data></Cell>
+    <Cell><Data ss:Type="String">F13</Data></Cell>
+    <Cell><Data ss:Type="String">F13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f14</Data></Cell>
+    <Cell><Data ss:Type="String">F14</Data></Cell>
+    <Cell><Data ss:Type="String">F14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_f15</Data></Cell>
+    <Cell><Data ss:Type="String">F15</Data></Cell>
+    <Cell><Data ss:Type="String">F15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mwheel_up</Data></Cell>
+    <Cell><Data ss:Type="String">Mwheel Up</Data></Cell>
+    <Cell><Data ss:Type="String">Roda Abaixo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mwheel_down</Data></Cell>
+    <Cell><Data ss:Type="String">Mwheel Down</Data></Cell>
+    <Cell><Data ss:Type="String">Roda Acima</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mouse1</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 1</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mouse2</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 2</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mouse3</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 3</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mouse4</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 4</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mouse5</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mouse6</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 6</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mouse7</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 7</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_mouse8</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 8</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse 8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_maxis_x</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_maxis_y</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_maxis_z</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse</Data></Cell>
+    <Cell><Data ss:Type="String">Mouse</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_a</Data></Cell>
+    <Cell><Data ss:Type="String">A Button</Data></Cell>
+    <Cell><Data ss:Type="String">Botão A</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_b</Data></Cell>
+    <Cell><Data ss:Type="String">B Button</Data></Cell>
+    <Cell><Data ss:Type="String">Botão B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_dpad_up</Data></Cell>
+    <Cell><Data ss:Type="String">Directional Pad Up</Data></Cell>
+    <Cell><Data ss:Type="String">Pad Acima Direcional</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_dpad_down</Data></Cell>
+    <Cell><Data ss:Type="String">Directional Pad Down</Data></Cell>
+    <Cell><Data ss:Type="String">Pad Abaixo Direcional</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_shoulderl</Data></Cell>
+    <Cell><Data ss:Type="String">Left Bumper</Data></Cell>
+    <Cell><Data ss:Type="String">Bumper Esquerdo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_shoulderr</Data></Cell>
+    <Cell><Data ss:Type="String">Right Bumper</Data></Cell>
+    <Cell><Data ss:Type="String">Bumper Direito</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_thumbr</Data></Cell>
+    <Cell><Data ss:Type="String">Right Thumb Stick</Data></Cell>
+    <Cell><Data ss:Type="String">Botão da Alavanca Direita</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_thumbl</Data></Cell>
+    <Cell><Data ss:Type="String">Left Thumb Stick</Data></Cell>
+    <Cell><Data ss:Type="String">Botão da Alavanca Esquerda</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_triggerl_btn</Data></Cell>
+    <Cell><Data ss:Type="String">Left Trigger</Data></Cell>
+    <Cell><Data ss:Type="String">Gatilho Esquerdo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_triggerr_btn</Data></Cell>
+    <Cell><Data ss:Type="String">Right Trigger</Data></Cell>
+    <Cell><Data ss:Type="String">Gatilho Direito</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_x</Data></Cell>
+    <Cell><Data ss:Type="String">X Button</Data></Cell>
+    <Cell><Data ss:Type="String">Botão X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_y</Data></Cell>
+    <Cell><Data ss:Type="String">Y Button</Data></Cell>
+    <Cell><Data ss:Type="String">Botão Y</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_dpad_left</Data></Cell>
+    <Cell><Data ss:Type="String">Directional Pad Left</Data></Cell>
+    <Cell><Data ss:Type="String">Pad Esquerdo Direcional</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_dpad_right</Data></Cell>
+    <Cell><Data ss:Type="String">Directional Pad Right</Data></Cell>
+    <Cell><Data ss:Type="String">Pad Direito Direcional</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_start</Data></Cell>
+    <Cell><Data ss:Type="String">Start Button</Data></Cell>
+    <Cell><Data ss:Type="String">Botão Start</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_back</Data></Cell>
+    <Cell><Data ss:Type="String">Back Button</Data></Cell>
+    <Cell><Data ss:Type="String">Botão Back</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_triggerl</Data></Cell>
+    <Cell><Data ss:Type="String">Left Trigger</Data></Cell>
+    <Cell><Data ss:Type="String">Gatilho Esquerdo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_triggerr</Data></Cell>
+    <Cell><Data ss:Type="String">Right Trigger</Data></Cell>
+    <Cell><Data ss:Type="String">Gatilho Direito</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_thumblx</Data></Cell>
+    <Cell><Data ss:Type="String">Left Thumb Stick X-Axis</Data></Cell>
+    <Cell><Data ss:Type="String">Botão da Alavanca Esquerda Eixo-X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_thumbly</Data></Cell>
+    <Cell><Data ss:Type="String">Left Thumb Stick Y-Axis</Data></Cell>
+    <Cell><Data ss:Type="String">Botão da Alavanca Esquerda Eixo-Y</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_thumbrx</Data></Cell>
+    <Cell><Data ss:Type="String">Right Thumb Stick X-Axis</Data></Cell>
+    <Cell><Data ss:Type="String">Botão da Alavanca Direita Eixo-X</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">cc_xi_thumbry</Data></Cell>
+    <Cell><Data ss:Type="String">Right Thumb Stick Y-Axis</Data></Cell>
+    <Cell><Data ss:Type="String">Botão da Alavanca Direita Eixo-Y</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="Default"><Data ss:Type="String">cc_semicolon</Data></Cell>
+    <Cell><Data ss:Type="String">;</Data></Cell>
+    <Cell><Data ss:Type="String">;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="Default"><Data ss:Type="String">cc_apostrophe</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_backslash</Data></Cell>
+    <Cell><Data ss:Type="String">\</Data></Cell>
+    <Cell><Data ss:Type="String">\</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_rbracket</Data></Cell>
+    <Cell><Data ss:Type="String">]</Data></Cell>
+    <Cell><Data ss:Type="String">]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_lbracket</Data></Cell>
+    <Cell><Data ss:Type="String">[</Data></Cell>
+    <Cell><Data ss:Type="String">[</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_slash</Data></Cell>
+    <Cell><Data ss:Type="String">/</Data></Cell>
+    <Cell><Data ss:Type="String">/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_period</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_comma</Data></Cell>
+    <Cell><Data ss:Type="String">,</Data></Cell>
+    <Cell><Data ss:Type="String">,</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_equals</Data></Cell>
+    <Cell><Data ss:Type="String">=</Data></Cell>
+    <Cell><Data ss:Type="String">=</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_minus</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">cc_oem_102</Data></Cell>
+    <Cell><Data ss:Type="String">\</Data></Cell>
+    <Cell><Data ss:Type="String">\</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <SplitHorizontal>4110</SplitHorizontal>
+   <TopRowBottomPane>0</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+     <RangeSelection>R4C4:R110C4</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <Sorting xmlns="urn:schemas-microsoft-com:office:excel">
+   <Sort>Column B</Sort>
+  </Sorting>
+ </Worksheet>
+</Workbook>
