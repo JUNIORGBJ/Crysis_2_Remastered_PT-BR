@@ -1,4 +1,6 @@
-# Crysis_2_Remastered_PT-BR
+<h1 align="center"><figure>
+  <img src="Crysis.2.Remastered.png">
+</figure></h1>
 
 ## :small_blue_diamond:Sobre a Tradução.
 
