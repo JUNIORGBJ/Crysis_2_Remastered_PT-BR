@@ -18,8 +18,8 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## :small_blue_diamond:Instalação
 
-**SXOS** Basta colocar o arquivo dentro da pasta ```sxos\titles``` para quem usa esse desbloqueio e reiniciar o desbloqueio.
-**ATMOSPHERE** Basta colocar o arquivo dentro da pasta ```Atmosphere\Contents``` para quem usa esse desbloqueio
+**SXOS** Basta colocar a pasta ```0100582010AE0000``` no caminho ```sxos\titles``` para quem usa esse desbloqueio e reiniciar o desbloqueio.
+**ATMOSPHERE** Basta colocar a pasta ```0100582010AE0000``` no caminho ```Atmosphere\Contents``` para quem usa esse desbloqueio
 
 ## :small_blue_diamond:Ferramentas Ultilizadas
 
